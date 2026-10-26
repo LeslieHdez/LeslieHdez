@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=Leslie%20Hernandez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%2F%20BACKEND&descAlignY=60&descSize=18" />
+<img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas Computacionales" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=Leslie%20Hernandez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descAlignY=60&descSize=16" />
 
-<img alt="Frontend, Backend y aprendizaje continuo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend;Interfaces%2C+servidores+y+datos;Aprendizaje+continuo" />
+<img alt="Estudiante de Ingeniería en Sistemas Computacionales" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa;en+Sistemas+Computacionales;Aprendizaje+continuo" />
 
 ### De la interfaz a los datos.
 
-Estudiante de Ingeniería en Sistemas · Aprendiendo Frontend y Backend
+Estudiante de Ingeniería en Sistemas Computacionales
 
-[![GitHub](https://img.shields.io/badge/GitHub-LeslieHdez-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/LeslieHdez)
+
 [![Repositorios](https://img.shields.io/badge/Explorar-Repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeslieHdez?tab=repositories)
 
 </div>
@@ -20,7 +20,7 @@ Estudiante de Ingeniería en Sistemas · Aprendiendo Frontend y Backend
 <img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
 
 > **Hola, soy Leslie Hernandez.**  
-> Soy estudiante de **Ingeniería en Sistemas** y estoy aprendiendo desarrollo **Frontend y Backend**, desde las interfaces web hasta la lógica del servidor y las bases de datos.
+> Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy aprendiendo desarrollo **Frontend y Backend**, desde las interfaces web hasta la lógica del servidor y las bases de datos.
 
 <br clear="right" />
 
@@ -143,7 +143,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 
 <div align="center">
 
-**Leslie Hernandez** · Estudiante de Ingeniería en Sistemas
+**Leslie Hernandez** · Estudiante de Ingeniería en Sistemas Computacionales
 
 [Perfil](https://github.com/LeslieHdez) · [Repositorios](https://github.com/LeslieHdez?tab=repositories)
 
@@ -152,6 +152,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
