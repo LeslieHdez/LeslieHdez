@@ -17,19 +17,21 @@ Desarrollo de software · Aprendizaje continuo
 
 ## 01 / Sobre mí
 
-Mi enfoque está en el desarrollo **Frontend y Backend**. Estoy utilizando y aprendiendo tecnologías para conectar interfaces web, lógica del servidor y bases de datos.
+<img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./assets/ajolote.png" />
 
-```yaml
-perfil: LeslieHdez
-enfoque: Desarrollo de software
-areas:
-  - Frontend
-  - Backend
-stack_en_uso_o_aprendizaje:
-  frontend: [HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS]
-  backend: [Node.js, Express]
-  bases_de_datos: [MySQL, PostgreSQL]
-```
+> **Hola, soy Leslie.**  
+> Mi enfoque está en el desarrollo de software: desde lo que ves en pantalla hasta la lógica y los datos que lo hacen funcionar.
+
+<br clear="right" />
+
+| Frontend | Backend |
+| :--- | :--- |
+| Interfaces web, estructura y estilos. | Lógica del servidor y bases de datos. |
+| HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS | Node.js · Express · MySQL · PostgreSQL |
+
+**Actualmente:** utilizando y aprendiendo este stack, paso a paso.
+
+---
 
 ## 02 / Stack tecnológico
 
@@ -49,11 +51,31 @@ Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
 
 <img alt="MySQL y PostgreSQL" src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=2" />
 
+### Herramientas de diseño y desarrollo
+
+<img alt="Figma, Visual Studio Code y Postman" src="https://skillicons.dev/icons?i=figma,vscode,postman&theme=dark&perline=3" />
+
+<p><sub>Figma · Visual Studio Code · Postman</sub></p>
+
 </div>
 
 ---
 
-## 03 / Actividad en GitHub
+## 03 / Proyecto destacado
+
+<div align="center">
+
+<a href="https://github.com/LeslieHdez/BibliotecaDigital-PrestamosdeLibros">
+  <img width="480" alt="Repositorio BibliotecaDigital-PrestamosdeLibros de LeslieHdez" src="https://github-readme-stats.vercel.app/api/pin/?username=LeslieHdez&repo=BibliotecaDigital-PrestamosdeLibros&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&icon_color=60A5FA&border_color=303958&border_radius=16" />
+</a>
+
+[Explorar BibliotecaDigital-PrestamosdeLibros →](https://github.com/LeslieHdez/BibliotecaDigital-PrestamosdeLibros)
+
+</div>
+
+---
+
+## 04 / Actividad en GitHub
 
 <div align="center">
 
@@ -99,6 +121,26 @@ Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
 
 ---
 
+## 05 / Contacta conmigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/leslie-jeannette-escobar-hernandez-37523731b/">
+  <img alt="Contactar a Leslie en LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=151B2E" />
+</a>
+<a href="mailto:lesliehernandz17@gmail.com">
+  <img alt="Enviar correo a lesliehernandz17@gmail.com" src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1630" />
+</a>
+<a href="https://github.com/LeslieHdez">
+  <img alt="Perfil GitHub de LeslieHdez" src="https://img.shields.io/badge/GitHub-LeslieHdez-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+
+[lesliehernandz17@gmail.com](mailto:lesliehernandz17@gmail.com)
+
+</div>
+
+---
+
 <div align="center">
 
 **LESLIEHDEZ** · Frontend / Backend
@@ -110,5 +152,7 @@ Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
+
 
 
