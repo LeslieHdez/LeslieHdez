@@ -17,7 +17,7 @@ Desarrollo de software · Aprendizaje continuo
 
 ## 01 / Sobre mí
 
-<img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./assets/ajolote.png" />
+<img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
 
 > **Hola, soy Leslie.**  
 > Mi enfoque está en el desarrollo de software: desde lo que ves en pantalla hasta la lógica y los datos que lo hacen funcionar.
