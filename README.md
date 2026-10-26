@@ -103,11 +103,13 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 
 </details>
 
-<details>
-<summary><b>Calendario de contribuciones</b></summary>
+<details open>
+<summary><b>⚡ Mi actividad · Calendario de contribuciones</b></summary>
 <br />
 
 <a href="https://github.com/LeslieHdez?tab=overview">
+  <img alt="Mi actividad en GitHub — aprendiendo paso a paso" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=65&lines=%3E+Leslie+Hernandez;Mi+actividad+en+GitHub;Aprendiendo+paso+a+paso" />
+  <br />
   <img width="100%" alt="Calendario de contribuciones de LeslieHdez en GitHub" src="https://ghchart.rshah.org/8B5CF6/LeslieHdez" />
 </a>
 
@@ -150,6 +152,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
