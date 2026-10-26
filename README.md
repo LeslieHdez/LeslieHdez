@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" alt="LeslieHdez — Frontend y Backend" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=LeslieHdez&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%2F%20BACKEND&descAlignY=60&descSize=18" />
+<img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=Leslie%20Hernandez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%2F%20BACKEND&descAlignY=60&descSize=18" />
 
 <img alt="Frontend, Backend y aprendizaje continuo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend;Interfaces%2C+servidores+y+datos;Aprendizaje+continuo" />
 
 ### De la interfaz a los datos.
 
-Desarrollo de software · Aprendizaje continuo
+Estudiante de Ingeniería en Sistemas · Aprendiendo Frontend y Backend
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeslieHdez-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/LeslieHdez)
 [![Repositorios](https://img.shields.io/badge/Explorar-Repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeslieHdez?tab=repositories)
@@ -19,23 +19,23 @@ Desarrollo de software · Aprendizaje continuo
 
 <img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
 
-> **Hola, soy Leslie.**  
-> Mi enfoque está en el desarrollo de software: desde lo que ves en pantalla hasta la lógica y los datos que lo hacen funcionar.
+> **Hola, soy Leslie Hernandez.**  
+> Soy estudiante de **Ingeniería en Sistemas** y estoy aprendiendo desarrollo **Frontend y Backend**, desde las interfaces web hasta la lógica del servidor y las bases de datos.
 
 <br clear="right" />
 
-| Frontend | Backend |
+| Aprendiendo Frontend | Aprendiendo Backend |
 | :--- | :--- |
 | Interfaces web, estructura y estilos. | Lógica del servidor y bases de datos. |
 | HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS | Node.js · Express · MySQL · PostgreSQL |
 
-**Actualmente:** utilizando y aprendiendo este stack, paso a paso.
+**Actualmente:** aprendiendo estas tecnologías paso a paso como parte de mi formación.
 
 ---
 
 ## 02 / Stack tecnológico
 
-Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
+Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aquí no indica dominio ni experiencia profesional.
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
 
 <div align="center">
 
-**LESLIEHDEZ** · Frontend / Backend
+**Leslie Hernandez** · Estudiante de Ingeniería en Sistemas
 
 [Perfil](https://github.com/LeslieHdez) · [Repositorios](https://github.com/LeslieHdez?tab=repositories)
 
@@ -152,6 +152,7 @@ Tecnologías que utilizo o estoy aprendiendo, sin un orden de dominio.
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
