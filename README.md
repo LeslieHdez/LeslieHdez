@@ -104,11 +104,11 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 </details>
 
 <details>
-<summary><b>Gráfico de actividad</b></summary>
+<summary><b>Calendario de contribuciones</b></summary>
 <br />
 
 <a href="https://github.com/LeslieHdez?tab=overview">
-  <img width="100%" alt="Actividad pública reciente de LeslieHdez" src="https://github-readme-activity-graph.vercel.app/graph?username=LeslieHdez&bg_color=0D1117&color=A78BFA&line=60A5FA&point=C4B5FD&area=true&area_color=2563EB&hide_border=true&radius=16&custom_title=LeslieHdez%20%7C%20Actividad%20en%20GitHub" />
+  <img width="100%" alt="Calendario de contribuciones de LeslieHdez en GitHub" src="https://ghchart.rshah.org/8B5CF6/LeslieHdez" />
 </a>
 
 </details>
@@ -145,11 +145,12 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 
 [Perfil](https://github.com/LeslieHdez) · [Repositorios](https://github.com/LeslieHdez?tab=repositories)
 
-<sub>Estadísticas: <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> · <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Activity Graph</a></sub>
+<sub>Estadísticas: <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> · <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart</a></sub>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
