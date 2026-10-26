@@ -1,57 +1,74 @@
 <div align="center">
 
-<img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas Computacionales" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=Leslie%20Hernandez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descAlignY=60&descSize=16" />
+<img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas Computacionales" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=250&section=header&text=Leslie%20Hernandez&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descAlignY=60&descSize=15" />
 
 <img alt="Frontend, Backend y aprendizaje continuo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend;Interfaces%2C+servidores+y+datos;Aprendizaje+continuo" />
 
-### De la interfaz a los datos.
+### Cada línea, un nuevo aprendizaje.
 
 Estudiante de Ingeniería en Sistemas Computacionales
 
+<sub>INTERFACES · LÓGICA · DATOS</sub>
 
 [![Repositorios](https://img.shields.io/badge/Explorar-Repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeslieHdez?tab=repositories)
 
 </div>
 
+<p align="center"><a href="#01--sobre-mí">Sobre mí</a> &nbsp; / &nbsp; <a href="#02--stack-tecnológico">Stack</a> &nbsp; / &nbsp; <a href="#03--proyecto-destacado">Biblioteca</a> &nbsp; / &nbsp; <a href="#05--contacta-conmigo">Contacto</a></p>
+
 ---
 
 ## 01 / Sobre mí
 
-<img align="right" width="160" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
-
-> **Hola, soy Leslie Hernandez.**  
-> Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy aprendiendo desarrollo **Frontend y Backend**, desde las interfaces web hasta la lógica del servidor y las bases de datos.
-
-<br clear="right" />
-
-| Aprendiendo Frontend | Aprendiendo Backend |
-| :--- | :--- |
-| Interfaces web, estructura y estilos. | Lógica del servidor y bases de datos. |
-| HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS | Node.js · Express · MySQL · PostgreSQL |
-
-**Actualmente:** aprendiendo estas tecnologías paso a paso como parte de mi formación.
+<table>
+<tr>
+<td width="68%" valign="middle">
+<h3>Hola, soy Leslie Hernandez.</h3>
+<p>Estudiante de <b>Ingeniería en Sistemas Computacionales</b>.</p>
+<p>Estoy aprendiendo desarrollo <b>Frontend y Backend</b>: desde las interfaces web hasta la lógica del servidor y las bases de datos.</p>
+<p><img alt="En aprendizaje continuo" src="https://img.shields.io/badge/ESTADO-Aprendiendo-8B5CF6?style=flat-square&labelColor=151B2E" /></p>
+<sub>Un paso a la vez. Una nueva idea en cada línea.</sub>
+</td>
+<td width="32%" align="center" valign="middle">
+<img width="180" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
+<br /><sub>Mi compañero de aprendizaje</sub>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 02 / Stack tecnológico
 
-Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aquí no indica dominio ni experiencia profesional.
+> **Mi ruta de aprendizaje.** Estas son las tecnologías que estoy estudiando y practicando.
 
 <div align="center">
 
-### Frontend
+### 〈 Frontend 〉
+
+<sub>ESTRUCTURA · ESTILOS · INTERACCIÓN</sub>
+
 
 <img alt="HTML, CSS, JavaScript, TypeScript, React y Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=6" />
 
-### Backend
+### 〈 Backend 〉
+
+<sub>LÓGICA DEL SERVIDOR</sub>
+
 
 <img alt="Node.js y Express" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" />
 
-### Bases de datos
+### 〈 Bases de datos 〉
+
+<sub>ORGANIZACIÓN Y PERSISTENCIA</sub>
+
 
 <img alt="MySQL y PostgreSQL" src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=2" />
 
-### Herramientas de diseño y desarrollo
+### 〈 Herramientas 〉
+
+<sub>DISEÑO · EDICIÓN · PRUEBAS DE API</sub>
+
 
 <img alt="Figma, Visual Studio Code y Postman" src="https://skillicons.dev/icons?i=figma,vscode,postman&theme=dark&perline=3" />
 
@@ -62,6 +79,8 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 ---
 
 ## 03 / Proyecto destacado
+
+> **Biblioteca Digital** · Mi repositorio de préstamos de libros.
 
 <div align="center">
 
@@ -125,6 +144,8 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 
 ## 05 / Contacta conmigo
 
+<p align="center"><b>Sigamos conectando ideas.</b><br /><sub>Puedes encontrarme en LinkedIn o escribirme por correo.</sub></p>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/leslie-jeannette-escobar-hernandez-37523731b/">
@@ -145,20 +166,10 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 
 **Leslie Hernandez** · Estudiante de Ingeniería en Sistemas Computacionales
 
-[Perfil](https://github.com/LeslieHdez) · [Repositorios](https://github.com/LeslieHdez?tab=repositories)
+[Explora mis repositorios →](https://github.com/LeslieHdez?tab=repositories)
 
 <sub>Estadísticas: <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> · <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> · <a href="https://github.com/2016rshah/githubchart-api">GitHub Chart</a></sub>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
-
-
-
-
-
-
-
-
-
-
