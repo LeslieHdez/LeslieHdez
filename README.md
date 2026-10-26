@@ -131,9 +131,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 <a href="mailto:lesliehernandz17@gmail.com">
   <img alt="Enviar correo a lesliehernandz17@gmail.com" src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1630" />
 </a>
-<a href="https://github.com/LeslieHdez">
-  <img alt="Perfil GitHub de LeslieHdez" src="https://img.shields.io/badge/GitHub-LeslieHdez-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" />
-</a>
+
 
 [lesliehernandz17@gmail.com](mailto:lesliehernandz17@gmail.com)
 
@@ -152,6 +150,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
