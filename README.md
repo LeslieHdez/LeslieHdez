@@ -39,7 +39,7 @@ Estudiante de Ingeniería en Sistemas Computacionales
 </td>
 <td width="32%" align="center" valign="middle">
 <img width="180" alt="Ajolote pixel art azul y violeta" src="./ajolote.png" />
-<br /><sub>Mi compañero de aprendizaje</sub>
+
 </td>
 </tr>
 </table>
@@ -181,5 +181,6 @@ Estudiante de Ingeniería en Sistemas Computacionales
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
