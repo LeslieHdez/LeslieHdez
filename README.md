@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Leslie Hernandez — Estudiante de Ingeniería en Sistemas Computacionales" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:8B5CF6&height=220&section=header&text=Leslie%20Hernandez&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descAlignY=60&descSize=16" />
 
-<img alt="Estudiante de Ingeniería en Sistemas Computacionales" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa;en+Sistemas+Computacionales;Aprendizaje+continuo" />
+<img alt="Frontend, Backend y aprendizaje continuo" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend;Interfaces%2C+servidores+y+datos;Aprendizaje+continuo" />
 
 ### De la interfaz a los datos.
 
@@ -152,6 +152,7 @@ Tecnologías que estoy aprendiendo como parte de mi formación. Su presencia aqu
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
 
 
