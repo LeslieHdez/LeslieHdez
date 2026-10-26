@@ -19,7 +19,7 @@ Estudiante de Ingeniería en Sistemas Computacionales
   &nbsp;
   <a href="#02--stack-tecnológico"><img alt="Ir al Stack tecnológico" src="https://img.shields.io/badge/STACK-1C1630?style=for-the-badge&logo=stackblitz&logoColor=A78BFA" /></a>
   &nbsp;
-  <a href="#03--proyecto-destacado"><img alt="Ir a Biblioteca" src="https://img.shields.io/badge/BIBLIOTECA-151B2E?style=for-the-badge&logo=bookstack&logoColor=60A5FA" /></a>
+  <a href="#03--proyecto-destacado"><img alt="Ir a Proyecto destacado" src="https://img.shields.io/badge/PROYECTO_DESTACADO-151B2E?style=for-the-badge&logo=bookstack&logoColor=60A5FA" /></a>
   &nbsp;
   <a href="#05--contacta-conmigo"><img alt="Ir a Contacto" src="https://img.shields.io/badge/CONTACTO-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -181,4 +181,5 @@ Estudiante de Ingeniería en Sistemas Computacionales
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" />
 
 </div>
+
 
